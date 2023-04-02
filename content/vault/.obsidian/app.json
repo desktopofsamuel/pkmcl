@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "media",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
